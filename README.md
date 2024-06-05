@@ -4,7 +4,6 @@ https://www.cxtx.com.au/
 Using Next.js, TS, Storyblok CMS, SCSS to build a responsive showcase website for CXTX and enable marketing teams to easily edit components.
 
 BlueScope	  July 2023 - Nov 2023	
-
 https://truecore.com.au/ & https://steelselect.com.au/
 Upgrade the deprecated Drupal and various dependencies; build responsive webpages, components and functions for multiple websites under BlueScope Steel Limited.
 
@@ -20,7 +19,8 @@ https://www.cxtx.com.au/no_code
 QA for function for creating dynamic banners and EDMs for clients, including Westpac, St. George, etc.
 
 The Limbic 	  Feb 2022 - Dec 2022
-https://thelimbic.com/ & https://thelimbic.com/uk				 	                        
+https://thelimbic.com/ & https://thelimbic.com/uk				 	   
+
 An editorially independent news site covering clinical and medico-political news and education for medical specialists in Australia. 
 - Migrate all marketing-related functions from the old platform(Mailchimp) to Marketing Cloud platform(SFMC),
 - API integration ( Add, request, update, delete and synchronize Limbic users' various personal details, subscription status of primary/other specialties, interests, and webinar/campaign tags to set their needed newsletters in SFMC according to different user subscription behavior in the frontend website and admin behaviors in the backend system ),
@@ -33,7 +33,6 @@ An editorially independent news site covering clinical and medico-political news
 - Test and debug; staging of the site.
   
 Wax Intranet	  Nov 2022 - Dec 2022
-
 https://intranet.wax.com.au/	 				      	        
 I improved and deploy Wax Interactive Pty Ltd's project management app via building features of task assignment, timeline management, client communication tracking, and filter options.
 
